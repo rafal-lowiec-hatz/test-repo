@@ -1,3 +1,5 @@
 # test-repo
-My first git repo
-Test
+<p>
+	My first git repo<br/>
+	Test
+</p>
